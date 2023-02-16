@@ -1,0 +1,10 @@
+   Compiling echor v0.1.0 (/Users/seagame/Codes/rust-command-line/echor)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.32s
+     Running `target/debug/echor`
+error: The following required arguments were not provided:
+    <TEXT>...
+
+USAGE:
+    echor [FLAGS] <TEXT>...
+
+For more information try --help
